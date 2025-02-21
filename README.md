@@ -8,8 +8,7 @@
 
 - 💬 Ask me about **HTML, CSS, Java, DSA, Roadmap to learn ML**
 
-- 📫 How to reach me **deeya2815@gmail.com**
-
+- 📫 How to reach me 
 
 
 
