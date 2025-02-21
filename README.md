@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deeya</h1>
 <h3 align="center">A passionate Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/85cb9521-97c0-4a65-9358-7db8099fac7f">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeya144&label=Profile%20views&color=0e75b6&style=flat" alt="deeya144" /> </p>
 
 
