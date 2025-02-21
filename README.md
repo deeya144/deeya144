@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deeya</h1>
 <h3 align="center">A passionate Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://techforceglobal.com/wp-content/uploads/2022/07/3.gif">
+<img align="right" alt="Coding" width="400" src="[https://techforceglobal.com/wp-content/uploads/2022/07/3.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechforceglobal.com%2Fhire-java-developers%2F&psig=AOvVaw2ivDFrs8BT_hXuLVRslqeH&ust=1740201511621000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjbsvuB1IsDFQAAAAAdAAAAABAE)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeya144&label=Profile%20views&color=0e75b6&style=flat" alt="deeya144" /> </p>
 
 
